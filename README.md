@@ -21,7 +21,7 @@ Este proyecto consiste en un conjunto de actividades prácticas en Python implem
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/operaciones-listas.git
+git clone https://github.com/Alexis217/tp3_tlp3_Alexis_Albarenga.git
 ```
 
 ### 🚀 Ejecución
